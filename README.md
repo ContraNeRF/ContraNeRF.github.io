@@ -10,7 +10,7 @@
 
 <h1 align='center' style="font-size:28px;font-weight:bold">CVPR 2023</h1>
 
-<div align='center'><a href="https://arxiv.org/abs/2303.11052">[Paper]</a>    <a href="https://arxiv.org/abs/2303.11052">[Code (coming soon)]</a></div>
+<div align='center'><a href="https://arxiv.org/abs/2303.11052">[Paper]</a>    <a href="https://github.com/ContraNeRF/ContraNeRF">[Code]</a></div>
 
 <center ><font size='7'>Abstract</font></center>
 
